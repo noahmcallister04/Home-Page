@@ -5,3 +5,4 @@
 ### Navigation:
 - __[About Me](https://github.com/noahmcallister04/aboutme)__
 - __[FizzBuzz Solution](https://github.com/noahmcallister04/fizzbuzz-solution)__
+- __[Websites to Use When Bored](https://github.com/noahmcallister04/boredwebsites)__
