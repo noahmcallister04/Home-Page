@@ -1,5 +1,4 @@
-# Midterm Project
-## Home Page
+# Home Page
 ### Basic Infromation About Myself:
 **Background:** I was born and raised in St. Charles County, which is about an hour from St. Louis.
 I attended Fort Zumwalt West Highschool and took a basic web design and intro to python class. I've always known I wanted to do something with computers and technology and I enjoy learning about coding and software engineering in my college classes.
